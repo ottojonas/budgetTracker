@@ -1,0 +1,8 @@
+/backendLogic/.env
+/backendLogic/package-lock.json
+/backendLogic/package.json
+/frontendUI/node_modules
+/frontendUI/.env
+/frontendUI/package-lock.json
+/frontendUI/package.json
+/.hintrc
